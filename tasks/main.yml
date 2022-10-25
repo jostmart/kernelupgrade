@@ -6,7 +6,7 @@
     state: present
     key: https://www.elrepo.org/RPM-GPG-KEY-elrepo.org
 
-- name: Install the nginx rpm from a remote repo
+- name: Install the elrepo rpm from a remote repo
   yum:
     name: https://www.elrepo.org/elrepo-release-7.el7.elrepo.noarch.rpm
     state: present

@@ -3,12 +3,9 @@ Kernelupgrade
 
 Don't everyone want the latest kernel?
 
-# http://elrepo.org/tiki/kernel-ml
+http://elrepo.org/tiki/kernel-ml
 
 
-
-      roles:
-         - { role: username.rolename, x: 42 }
 
 License
 -------
